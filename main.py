@@ -64,7 +64,7 @@ def get_weather_data(city):
 
 def main():
     print('bla-bla')
-   # URL = 'https://api.telegram.org/bot1168156058:AAF_gW9RbsKEV4dyUvzIwqqEZaBsqXuHwHc/setWebhook?url=https://nastyaobrezkova.pythonanywhere.com/'
+   # URL = f'https://api.telegram.org/bot{token}/setWebhook?url=https://nastyaobrezkova.pythonanywhere.com/'
 
 
 if __name__ == '__main__':
